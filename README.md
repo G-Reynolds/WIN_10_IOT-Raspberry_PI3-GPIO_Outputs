@@ -7,7 +7,9 @@ Raspberry PI 3 Board, using Windows 10 IOT (OS version 10.0.16299.192)
 
 Project in Visual Studio 2017, Visual C#, Universal Windows Platform (UWP)
 
-Click on Toggle Button, simulated LED displays (Green = pin Low) (Red = pin High)
+Click on Toggle Button, the simulated LED displays on screen will show (Green = pin Low) (Red = pin High)
+
+Actual PI3 GPIO pins will follow the simulated LED displays (Low or High)
 
 ![Image](/Notes/Screenshot_PI3.jpg)
 
