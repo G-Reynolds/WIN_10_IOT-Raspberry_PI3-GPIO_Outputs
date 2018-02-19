@@ -7,3 +7,5 @@ Raspberry PI 3 Board, using Windows 10 IOT (OS version 10.0.16299.192)
 
 Project in Visual Studio 2017, Visual C#, Universal Windows Platform (UWP)
 
+![Image](/Notes/Screenshot_2018-02-19_10-04-46.jpg)
+
