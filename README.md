@@ -9,7 +9,10 @@ Project in Visual Studio 2017, Visual C#, Universal Windows Platform (UWP)
 
 Click on Toggle Button, the simulated LED displays on screen will show (Green = pin Low) (Red = pin High)
 
-Actual PI3 GPIO pins will follow the simulated LED displays (Low or High)
+REAL PI3 GPIO pins will follow the simulated LED displays (Low or High)
+
+Screenshot below
+
 
 ![Image](/Notes/Screenshot_PI3.jpg)
 
