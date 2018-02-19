@@ -13,6 +13,10 @@ Click on Toggle Buttons, the simulated LED displays on screen will show (Green =
 
 REAL PI3 GPIO pins will follow the simulated LED displays (Low or High)
 
+A handy demo / diagnostic tool to check the Raspberry PI 3 GPIO Outputs are functioning correctly.
+
+
+
 Screenshot below
 
 
