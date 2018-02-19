@@ -9,5 +9,5 @@ Project in Visual Studio 2017, Visual C#, Universal Windows Platform (UWP)
 
 Click on Toggle Button, simulated LED displays (Green = pin Low) (Red = pin High)
 
-![Image](/Notes/Screenshot_2018-02-19_10-04-46.jpg)
+![Image](/Notes/Screenshot_PI3.jpg)
 
