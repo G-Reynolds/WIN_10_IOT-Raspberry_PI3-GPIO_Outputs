@@ -23,9 +23,11 @@ Screenshot below
 ![Image](/Notes/Screenshot_PI3.jpg)
 
 
-Raspberry PI 3 (GPIO_16  Pin 36) with Logic Probe attached.
+Raspberry PI 3 (GPIO_16  Pin 36) (Logic Low) with Logic Probe attached.
 
 ![Image](/Notes/Pin36_Low.JPG)
 
+Raspberry PI 3 (GPIO_16  Pin 36) (Logic High) with Logic Probe attached.
 
+![Image](/Notes/Pin36_High.JPG)
 
