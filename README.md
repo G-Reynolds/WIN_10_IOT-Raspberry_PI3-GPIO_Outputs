@@ -15,6 +15,7 @@ REAL PI3 GPIO pins will follow the simulated LED displays (Low or High).
 
 A handy demo / diagnostic tool to check the Raspberry PI 3 GPIO Outputs are functioning correctly.
 
+[Raspberry PI 3 GPIO Pin mappings - Microsoft](https://docs.microsoft.com/en-us/windows/iot-core/learn-about-hardware/pinmappings/pinmappingsrpi)
 
 
 Screenshot below
