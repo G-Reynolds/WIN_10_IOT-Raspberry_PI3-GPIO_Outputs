@@ -18,7 +18,7 @@ A handy demo / diagnostic tool to check the Raspberry PI 3 GPIO Outputs are func
 [Raspberry PI 3 GPIO Pin mappings - Microsoft](https://docs.microsoft.com/en-us/windows/iot-core/learn-about-hardware/pinmappings/pinmappingsrpi)
 
 
-Screenshot below
+Screen-shot below - From 22 Inch Monitor at 1024 x 768 resolution connected to Raspberry PI 3.
 
 
 ![Image](/Notes/Screenshot_PI3.jpg)
